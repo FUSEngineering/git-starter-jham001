@@ -1,6 +1,8 @@
 Joshua Ham was here!
 
 Another edit, uploaded using git commands from the terminal!
+
+edit from website editor
 # :wave: The Basics of GitHub 
 
 ## 🤓 Course overview and learning outcomes 
